@@ -1,0 +1,9 @@
+{
+  "obsidian-languagetool-plugin:ltclear": [],
+  "obsidian-languagetool-plugin:ltcheck-text": [
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
+  ]
+}
