@@ -1,4 +1,8 @@
 [
   "obsidian-languagetool-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "dataview",
+  "obsidian-tasks-plugin",
+  "quick-latex"
 ]

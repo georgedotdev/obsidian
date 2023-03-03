@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "776b41e54b38f10d",
+        "id": "987e78951d10f999",
         "type": "tabs",
         "children": [
           {
-            "id": "73aae36f0bc8507d",
+            "id": "a00d9ba77bd9af63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/English/English ASL Test - 1st March.md",
+                "file": "TODO's/Daily Notes/03-03-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d1c78a25b337831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Physics/Mechanical Properties of Solids.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,25 +98,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/English/English ASL Test - 1st March.md",
+                "file": "School/Physics/Mechanical Properties of Solids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6d7c674b3480cf0e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "School/English/English ASL Test - 1st March.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -120,20 +121,19 @@
             }
           },
           {
-            "id": "a7a9e382dbcb1d6f",
+            "id": "ff58b30a5d0389d6",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "School/English/English ASL Test - 1st March.md"
-              }
+              "type": "calendar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,10 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73aae36f0bc8507d",
+  "active": "1d1c78a25b337831",
   "lastOpenFiles": [
-    "School/English/PDF's/English ASL Test - 1st March.pdf",
+    "School/Physics/Mechanical Properties of Solids.md",
+    "TODO's/Daily Notes/03-03-2023.md",
+    "School/Physics",
+    "TODO's/Daily Notes/04-03-2023.md",
+    "TODO's/Daily Notes/02-03-2023.md",
+    "templates/daily.md",
+    "2023-03-03.md",
+    "TODO's/Daily Notes",
+    "Untitled.md",
+    "TODO's/Daily.md",
+    "2023-03-02.md",
+    "templates",
     "School/English/English ASL Test - 1st March.md",
+    "School/English/PDF's/English ASL Test - 1st March.pdf",
+    "TODO's/Projects",
+    "TODO's",
+    "T.md",
     "School/English/PDF's",
     "Untitled.canvas",
     "{{date}}.md",

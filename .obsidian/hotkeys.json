@@ -1,9 +1,18 @@
 {
   "obsidian-languagetool-plugin:ltclear": [],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [],
   "obsidian-languagetool-plugin:ltcheck-text": [
     {
       "modifiers": [],
-      "key": "F8"
+      "key": "F7"
     }
   ]
 }
