@@ -132,7 +132,55 @@ On the basis of elastic and plastic properties, material can be classified in tw
 - example - glass, ceramics, cast iron etc.
 ![stress-strain curve for brittle material | 350](https://grdp.co/cdn-cgi/image/f=auto/https://gs-post-images.grdp.co/2022/8/stress-strain-curve-for-brittle-img1661235710690-54-rs.png?noResize=1)
 
+--- 
+# Modulus of elasticity
 
+*defined as the ratio of stress to the corresponding strain within the elastic limit*
+SI Unit = $\frac {N}{m^{2}}$ or Pascal(Pa)   Dimensions = $[ML^(-1)T^(-2)]$
+- depends on the nature of the material of the body
+- modulus is independent of its dimensions (i.e length,area, volume etc.)
 
+There are three types of modulus of elasticity,
 
+##  Young's Modulus of elasticity
+
+*within elastic limit the ratio of logitudinal stress to longitudinal strain is youngs modulus of the material of the wire*
+
+$$Young's modulus = \frac {longitudinalStress}{longitudinalStrain}$$
+
+Consider a wire of length *l* and raidus *r*. Let a Force *F* be appllied on the wire normal to the surface, then $\delta L$ is the change in length of the wire
+$$\therefore Young's Modulus,$$
+$$Y = \frac {F/A}{\delta L/L}$$
+putting F = mg and A = $\pi \times r^2$
+$$Y = \frac {mgL}{\pi r^{2}\delta L}$$
+or $$Y = \frac {FL}{\pi r^{2}\delta L}$$
+
+# Bulk modulus of elasticity
+
+*within elastic limit the ratio of normal stress to volumetric strain is called bulk modulus*
+
+conside a body of volume V and surface area A suppose force F acts uniformly over the body and decreases volume by $\delta V$, then bulk modulus is given by
+$$B = \frac {F/A}{\delta V/V}$$
+$$\therefore BulkModulus = \frac {-F}{A} \times \frac {V}{\delta V}$$
+$$\Rightarrow B = \frac {-pV}{\delta V}$$
+where $p = \frac {F}{A}$
+- **negative sign shows that volume decreases with increase in stress, but for a system in equilibrium bulk modulus is always positive**
+- **bulk modulus for a perfect rigid and ideal liquid is always infinite**
+
+### Compressability
+*The reciprocal of bulk modulus of a material is called its compressability*
+
+$$Compressability = \frac {1}{B} = \frac {- \delta V}{pV}$$
+SI unit = 1/Nm^2
+- **when compressability is given in the question, usually it is given in atm, to convert atm to Newtons per metre square : multiply by 1.1013 * 10 ^5 **
+- **use this to convert any atm value to newtons per metre square**
+
+## Modulus of Rigidity or Shear Modulus
+*ratio of shear stress to shear strain*
+- it is denoted as G or n
+
+$$ G = \frac {shearStress}{shearStrain}$$
+$$Shear modulus ,G = \frac {F}{A} \times \frac {L}{\delta L}$$
+- **shear modulus of an ideal liquid is 0**
+- **solids have all types of modulus of elasticity but fluids(liquids and gases) only has bulkmodulus of elasticity**
 

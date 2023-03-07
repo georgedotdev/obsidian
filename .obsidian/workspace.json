@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "987e78951d10f999",
+        "id": "7e518bd97efdb2aa",
         "type": "tabs",
         "children": [
           {
-            "id": "a00d9ba77bd9af63",
+            "id": "3b279a81016c4180",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO's/Daily Notes/03-03-2023.md",
+                "file": "School/Comp Sci/Societal Impact.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d1c78a25b337831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Physics/Mechanical Properties of Solids.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Physics/Mechanical Properties of Solids.md",
+                "file": "School/Comp Sci/Societal Impact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,14 +115,35 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "4351457af6b90ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/Comp Sci/Societal Impact.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c2ab608c6a5314b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/Comp Sci/Societal Impact.md"
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,21 +155,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d1c78a25b337831",
+  "active": "3b279a81016c4180",
   "lastOpenFiles": [
-    "School/Physics/Mechanical Properties of Solids.md",
+    "School/Comp Sci/Emerging Trends.md",
+    "School/Comp Sci/Societal Impact.md",
+    "School/English/English ASL Test - 1st March.md",
+    "TODO's/Daily Notes/07-03-2023.md",
+    "School/Physics/Thermal Properties of Matter.md",
+    "School/Comp Sci",
     "TODO's/Daily Notes/03-03-2023.md",
-    "School/Physics",
     "TODO's/Daily Notes/04-03-2023.md",
+    "TODO's/Daily Notes/06-03-2023.md",
+    "School/Physics/Mechanical properties of Liquids.md",
+    "School/Physics/Mechanical Properties of Solids.md",
+    "School/Physics/Oscilaltions.md",
+    "School/Physics/Mechanical Properties of Solids.pdf",
+    "School/Physics",
     "TODO's/Daily Notes/02-03-2023.md",
     "templates/daily.md",
     "2023-03-03.md",
     "TODO's/Daily Notes",
-    "Untitled.md",
     "TODO's/Daily.md",
     "2023-03-02.md",
     "templates",
-    "School/English/English ASL Test - 1st March.md",
     "School/English/PDF's/English ASL Test - 1st March.pdf",
     "TODO's/Projects",
     "TODO's",
@@ -169,7 +186,6 @@
     "Untitled.canvas",
     "{{date}}.md",
     "2023-03-01.md",
-    "School/English",
-    "School"
+    "School/English"
   ]
 }

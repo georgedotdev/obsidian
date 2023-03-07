@@ -1,4 +1,12 @@
 {
-  "accentColor": "#8f6bef",
-  "cssTheme": "Typewriter"
+  "accentColor": "#89cff0",
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": true,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Fira Code Retina",
+  "textFontFamily": ""
 }
